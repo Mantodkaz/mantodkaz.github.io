@@ -1,4 +1,4 @@
-	const carouselText = [
+const carouselText = [
   {text: "Mantodkaz", color: "red"},
   {text: "Web Security Enthusiast", color: "orange"}
 ]
