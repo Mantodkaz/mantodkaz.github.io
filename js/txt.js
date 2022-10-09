@@ -4,7 +4,7 @@ const carouselText = [
 ]
 
 $( document ).ready(async function() {
-  carousel(carouselText, "#feature-text")
+  carousel(carouselText, "#kaztxt")
 });
 
 async function typeSentence(sentence, eleRef, delay = 100) {
